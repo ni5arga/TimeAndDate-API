@@ -31,3 +31,4 @@ Use https://time-and-date-api.vercel.app/api/date
 <a href="https://github.com/Nisarga-developer/TimeandDate-API">
   <img src="https://contrib.rocks/image?repo=nisarga-developer/timeanddate-api" />
 </a>
+
